@@ -1,5 +1,5 @@
 Name:		texlive-thesis-ekf
-Version:	2.3
+Version:	3.0
 Release:	1
 Summary:	Thesis class for Eszterhazy Karoly College
 Group:		Publishing
