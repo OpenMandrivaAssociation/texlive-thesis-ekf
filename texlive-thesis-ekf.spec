@@ -1,6 +1,6 @@
 Name:		texlive-thesis-ekf
 Version:	60228
-Release:	1
+Release:	2
 Summary:	Thesis class for Eszterhazy Karoly College
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thesis-ekf
