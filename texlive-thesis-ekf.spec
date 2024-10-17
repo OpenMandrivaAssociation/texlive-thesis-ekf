@@ -3,7 +3,7 @@ Version:	70980
 Release:	1
 Summary:	Thesis class for Eszterhazy Karoly College
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thesis-ekf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thesis-ekf
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thesis-ekf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thesis-ekf.doc.r%{version}.tar.xz
